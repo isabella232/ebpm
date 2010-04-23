@@ -1,24 +1,26 @@
 <div id="bigbuttons">
 <h3>Primary Links</h3>
 <ul>
-	<li><a id="buttonDownload" href="download.php" title="Download">Eclipse
-	Distribution, Update Site, Dropins</a></li>
-	<li><a id="buttonDocumentation" href="midcolumn_example.php"
-		title="Documentation">Tutorials, Examples, Videos, Reference Documentation</a></li>
-	<li><a id="buttonSupport" href="midcolumn_example.php" title="Download">Bug
-	Tracker, Newsgroup, Professional Support</a></li>
-	<li><a id="buttonInvolved" href="midcolumn_example.php" title="Getting Involved">CVS,
-	Workspace Setup, Wiki, Committers</a></li>
+	<li><a id="buttonDownload" href="download.php" title="RoadpMap"></a>Ebpm Roadmap</li>
+	<li><a id="buttonDocumentation" href="http://www.spagoworld.org/xwiki/bin/view/Spagic/TakeATour"
+		title="Demos"> Examples and  Videos</a></li>
+	<li><a id="buttonSupport" href="support.php" title="Support">Bug
+	Tracker, Newsgroup,Professional Support</a></li>
+	<li><a id="buttonInvolved" href="blog.php" title="Getting Involved">CVS,
+	Workspace Setup, Wiki, Committers, Blog</a></li>
 </ul>
 </div>
 
 <div id="midcolumn">
-<h3>MyProject - use this header describe what it does</h3>
+<h3>EBPM Project</h3>
 <div id="introText">
 
-<p class="left">MyProject is a framework for development of cool stuff and
-more cool stuff. Just describe your project here very briefly. Use the center 
-section below for a screenshot, a screenshot collage or a screencast.</p>
+<p class="left">EBPM is an open source project proposed under the Eclipse SOA Top-Level Project, 
+in accordance with the Eclipse Development Process. The eBPM aims at the realization of a complete BPM solution for OSGi. The project will also provide also provide UI and runtime supports, to be able to deploy and manage OSGi services, in declarative way leveraging the capabilities of OSGi declarative services. 
+In eBPM will propose two approach to realize a BPM Solution for OSGi, one is providing a BPM Gateway Bundle into the OSGi container that is able to realize the orchestration of other services, the second is embedding the OSGi runtime in an external BPM Engine, and extending this to be able to use the services provided by the container.
+The proposal also includes a console ( eclipse view/perspective ) for management and monitoring activities. The complete list 
+of proposed components is in the proposed components paragraph. 
+</p>
 
 <p class="right"> This project was just provisioned.  You can see the proposal 
 <a href="/proposals/ebpm">here</a>
@@ -30,7 +32,9 @@ section below for a screenshot, a screenshot collage or a screencast.</p>
  
 
 <div id="screencast">
-<object width="640" height="480"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=8260921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=DBD7EF&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=8260921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=DBD7EF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="480"></embed></object>
+<!--  <object width="640" height="480"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=8260921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=DBD7EF&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=8260921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=DBD7EF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="480"></embed></object> -->
+
+<img alt="" src="images/ebpmn_ok.png">
 </div>
 
 <!-- 
@@ -38,21 +42,24 @@ section below for a screenshot, a screenshot collage or a screencast.</p>
  -->
 <div id="feature_1">
 
-<h4>Some cool feature</h4>
-<p>MyProject has this really cool feature that you describe here in few words, just as a teaser.</p>
+<h4>The Missing Chain</h4>
+<p>At present, the OSGi technology appears to be the best answer to the demand of stable, modular and easily extensible solutions according to the SOA guidelines. On the other hand, OSGi really misses a central concept of a BPM platform that enables to describe the integration process in terms of OSGi services orchestration. The eBPM aims at the realization of a complete BPM solution for OSGi. </p>
 </div>
 
 <div id="feature_2">
-<h4>Another Feature</h4>
-<p>When working with MyProject, great things happen, and one of them is described here.</p>
+<h4>A huge variety of connectors</h4>
+<p>Several connectors are availables, that allow to activate the services by the most common protocols, such as 
+SOAP, JMS, FTP, Mail, and many more</p>
 </div>
 
 <div id="feature_3">
-<h4>Another Feature</h4>
-<p>When working with MyProject, great things happen, and one of them is described here.</p>
+<h4>Don't care about communication</h4>
+<p>The Main core provides a common way to define/develop OSGi services.eBPM core framework gives a way to realize OSGi Services based on the messaging paradigm that use the OSGi Event Admin Service to communicate with each others.</p>
 </div>
 
-<div id="feature_4">
+
+
+<!-- <div id="feature_4">
 <h4>User Experience</h4>
 <p>
 Experiment with style.css to create columns for text, just the way you want it. This section 
@@ -64,6 +71,7 @@ is a bit wider and can contain more words, even small logos or graphics to descr
 <p>Read the MyProject <a href="/project/documentation.php">documentation</a> and join the discussion at the <a href="http://www.eclipse.org/forums/eclipse.newsgroup.name">forum</a> to understand how powerful MyProject is.</p>
 <p> Want to know more? <a href="/projects/project_summary.php?projectid=soa.ebpm">About This Project</a>
 </div>
+ -->
 
 </div>
 
@@ -71,21 +79,80 @@ is a bit wider and can contain more words, even small logos or graphics to descr
 
 <div>
 <h3>Current Status</h3>
-<p>Update this section occasionally to let your community know what's new and exciting with your project....</p>
+<p>
+The eBPM project will focus on providing both runtime, and support tools to realize a complete BPM solution based on OSGi. 
+For the runtime part the eBPM project will provide: a core framework (eBPM Core framework ) to develop, 
+configure and manage OSGi services based on messaging paradigm, a set of standard connectivity ( SOAP, JMS etc.. ) and business services, 
+the orchestration of OSGi services in the core framework, through one or more bundles (BPMGateway),extensions towards the Apache ODE engine and a metadata model to have a persistent model for eBPM projects.
+The project will provide support and deployment tools for the configuration of services for the eBPM core framework and a monitoring ui perspective to manage runtime information, so that the proposal does not aim to replace or substitute existing OSGi development tools ( PDE ). 
+</p>
 </div>
 
 <div id="headlines">
 <h3>New and Noteworthy</h3>
-<p>... or a link to your new and noteworthy.</p>
+<p></p>
 </div>
+
 
 <div id="headlines">
-<h3>Headlines on the web</h3>
-<p>Project headlines...</p>
+<h3>Proposed Components</h3>
+<p>
+<b>OSGi Bundles:</b>
+<ul>
+<li><b>eBPM Core Framework:</b> Set of bundles, that leverage the capabilities of OSGi Declarative Services, to provide a common way to define/develop OSGi services.eBPM core framework will  provide a way to realize OSGi Services based on the messaging paradigm that use the OSGi Event Admin Service to communicate with each others.</li>
+
+<li><b>eBPM Deployment Service:</b> Bundle that will provide an OSGi Service, that will look for service configuration file and will publish OSGi services using facilities offered by DS and DS Component Factories.</li>
+
+<li><b>BPM Gateway API:</b> The bundle defining the interface for BPM Gateway implementations.</li>
+
+<li><b>BPM Gateway Process Engine:</b> The bundle containing an implementation of the API based on an open source process engine ( for example jbpm )</li>
+
+<li><b>Standard Connectors and  Services:</b> Bundles that provide common connectivity, and business services (SOAP, JMS, File System, FTP, TCP with pluggable applicative protocol implementations, Quartz, XSLT Transformation service, Groovy, JDBC, XSD Validation )</li>
+
+
+<li><b>eBPM Monitoring Services:</b> The set of bundle that will leverage information from runtime and store into a relational database.</li>
+</ul>
+
+<b>Metadata Model</b>
+<p>
+The relational model used by eBPM to store monitoring information. Basically this will be based on the STP Intermediate Model.
+</p>
+
+<b>Eclipse IDE Plugins ( Extensions to Eclipse IDE )</b>
+
+<ul>
+<li><b>eBPM Project Wizard Tool:</b> Eclipse Plugin to create an eBPM project.</li>
+
+<li><b>eBPM Service Editor:</b> visual tool for the configurations of OSGi service descriptor. This service descriptor file will be used by eBPM Core Service Framework, to register OSGi services into the runtime.This will not replace PDE tool, as it’s intended as a tool to create eBPM service descriptor to be used by eBPM Deployment Service.</li>
+
+<li><b>BPMN to BPM Gateway Process Engine Bundle:</b> Based on Eclipse STP IM ( Mangrove ) it produces process definitions to be used by BPM Gateway default implementation ( jbpm ) bundle.</li>
+
+<li><b>BPMN to BPEL:</b> Based on Eclipse STP IM ( Mangrove ), it produces BPEL processes with using the models realized by means of Eclipse BPMN Designer. The processes are then completed through the BPEL Designer.</li>
+
+<li><b>Deploy Tools:</b> Utility Tools integrated in Eclipse, that allow to deploy an eBPM project to the runtimes.</li>
+
+<li><b>Eclipse BPMN Editor Extension:</b> Extension to the eclipse bpmn editor to support the drag and drop of OSGi service definitions into the diagram.</li>
+
+<li><b>Eclipse BPEL Editor Extension:</b> Extension to the eclipse bpel editor  o support the drag and drop of OSGi service definitions into bpel  diagram.</li>
+
+<li><b>Eclipse eBPM Support Tools:</b>  Some support plugins ( menu contributions, preference page ), to help to work with eBPM.</li>
+
+<li><b>Monitor and Management Perspective/View:</b> Eclipse plugins to provide a view with the list of processes, process instances, and status information</li>
+</ul>
+
+<b>Extension to BPEL Runtime ( eBPM is used in an OSGi runtime embedded in BPEL runtime )</b>
+<ul>
+<li><b>OSGi Extension for the BPEL Runtime:</b> extensions enabling the BPEL runtime to orchestrate  OSGi  services. It will be initially released for Apache ODE.</li>
+</ul>
+
+</p>
 </div>
 
+<!--   
 <div id="headlines">
 <h3>Another announcement</h3>
 <p>MyProject is pleased to announce...</p>
-</div>
+</div> 
+ -->
+
 </div>
