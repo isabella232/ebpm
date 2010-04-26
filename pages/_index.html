@@ -102,50 +102,48 @@ This project was just provisioned.  You can see the proposal
 <p>
 <b>OSGi Bundles:</b>
 <ul>
-<li><b>eBPM Core Framework:</b> Set of bundles, that leverage the capabilities of OSGi Declarative Services, to provide a common way to define/develop OSGi services.eBPM core framework will  provide a way to realize OSGi Services based on the messaging paradigm that use the OSGi Event Admin Service to communicate with each others.</li>
+<li>eBPM Core Framework</li>
 
-<li><b>eBPM Deployment Service:</b> Bundle that will provide an OSGi Service, that will look for service configuration file and will publish OSGi services using facilities offered by DS and DS Component Factories.</li>
+<li>eBPM Deployment Service</li>
 
-<li><b>BPM Gateway API:</b> The bundle defining the interface for BPM Gateway implementations.</li>
+<li>BPM Gateway API</li>
 
-<li><b>BPM Gateway Process Engine:</b> The bundle containing an implementation of the API based on an open source process engine ( for example jbpm )</li>
+<li>BPM Gateway Process Engine</li>
 
-<li><b>Standard Connectors and  Services:</b> Bundles that provide common connectivity, and business services (SOAP, JMS, File System, FTP, TCP with pluggable applicative protocol implementations, Quartz, XSLT Transformation service, Groovy, JDBC, XSD Validation )</li>
+<li>Standard Connectors and  Services</li>
 
 
-<li><b>eBPM Monitoring Services:</b> The set of bundle that will leverage information from runtime and store into a relational database.</li>
+<li>eBPM Monitoring Services</li>
 </ul>
 
 <b>Metadata Model</b>
-<p>
-The relational model used by eBPM to store monitoring information. Basically this will be based on the STP Intermediate Model.
-</p>
 
-<b>Eclipse IDE Plugins ( Extensions to Eclipse IDE )</b>
+
+<b>Eclipse IDE Plugins </b>
 
 <ul>
-<li><b>eBPM Project Wizard Tool:</b> Eclipse Plugin to create an eBPM project.</li>
+<li>eBPM Project Wizard Tool</li>
 
-<li><b>eBPM Service Editor:</b> visual tool for the configurations of OSGi service descriptor. This service descriptor file will be used by eBPM Core Service Framework, to register OSGi services into the runtime.This will not replace PDE tool, as it’s intended as a tool to create eBPM service descriptor to be used by eBPM Deployment Service.</li>
+<li>eBPM Service Editor</li>
 
-<li><b>BPMN to BPM Gateway Process Engine Bundle:</b> Based on Eclipse STP IM ( Mangrove ) it produces process definitions to be used by BPM Gateway default implementation ( jbpm ) bundle.</li>
+<li>BPMN to BPM Gateway Process Engine Bundle</li>
 
-<li><b>BPMN to BPEL:</b> Based on Eclipse STP IM ( Mangrove ), it produces BPEL processes with using the models realized by means of Eclipse BPMN Designer. The processes are then completed through the BPEL Designer.</li>
+<li>BPMN to BPEL</li>
 
-<li><b>Deploy Tools:</b> Utility Tools integrated in Eclipse, that allow to deploy an eBPM project to the runtimes.</li>
+<li>Deploy Tools</li>
 
-<li><b>Eclipse BPMN Editor Extension:</b> Extension to the eclipse bpmn editor to support the drag and drop of OSGi service definitions into the diagram.</li>
+<li>Eclipse BPMN Editor Extension</li>
 
-<li><b>Eclipse BPEL Editor Extension:</b> Extension to the eclipse bpel editor  o support the drag and drop of OSGi service definitions into bpel  diagram.</li>
+<li>Eclipse BPEL Editor Extension</li>
 
-<li><b>Eclipse eBPM Support Tools:</b>  Some support plugins ( menu contributions, preference page ), to help to work with eBPM.</li>
+<li>Eclipse eBPM Support Tools</li>
 
-<li><b>Monitor and Management Perspective/View:</b> Eclipse plugins to provide a view with the list of processes, process instances, and status information</li>
+<li>Monitor and Management Perspective/View</li>
 </ul>
 
 <b>Extension to BPEL Runtime </b>
 <ul>
-<li><b>OSGi Extension for the BPEL Runtime:</b> extensions enabling the BPEL runtime to orchestrate  OSGi  services. It will be initially released for Apache ODE.</li>
+<li>OSGi Extension for the BPEL Runtime</li>
 </ul>
 
 </p>
