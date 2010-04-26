@@ -17,7 +17,7 @@
 	
 	# Define these here, or in _projectCommon.php for site-wide values
 	$pageKeywords	= "eclipse, project";
-	$pageAuthor		= "Antonietta Miele";
+	$pageAuthor		= "eBPM team";
 	$pageTitle 		= "eBPM home";
 	
 	
