@@ -19,7 +19,7 @@
 <p>Here are illustrated in detail,the eBPM Componets proposed .</p>
 
 <h2>OSGi Bundles</h2>
-<p></p>
+<p><br/></p>
 
 <h3>eBPM Core Framework</h3>
 <p>Set of bundles, that leverage the capabilities of OSGi Declarative Services, to provide a common way to define/develop OSGi services.eBPM core framework will  provide a way to realize OSGi Services based on the messaging paradigm that use the OSGi Event Admin Service to communicate with each others.</p>
@@ -43,7 +43,7 @@
 <p>The relational model used by eBPM to store monitoring information. Basically this will be based on the STP Intermediate Model.<p>
 
 <h2>Eclipse IDE Plugins ( Extensions to Eclipse IDE )</h2>
-<p></p>
+<p><br/></p>
 
 <h3>eBPM Project Wizard Tool</h3>
 <p>Eclipse Plugin to create an eBPM project.</p>
@@ -74,7 +74,7 @@
 <p>Eclipse plugins to provide a view with the list of processes, process instances, and status information</p>
 
 <h2>Extension to BPEL Runtime</h2>
-<p></p>
+<p><br/></p>
 
 <h3>OSGi Extension for the BPEL Runtime</h3>
 <p>extensions enabling the BPEL runtime to orchestrate  OSGi  services. It will be initially released for Apache ODE.</p>
