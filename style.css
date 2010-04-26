@@ -43,6 +43,12 @@ a strong {
 	float: right;
 }
 
+#introText p.twocol{
+	
+	float: left;
+	width: 63%;
+}
+
 #feature_1 {
 	float: left;
 	width: 30%;
