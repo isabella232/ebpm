@@ -135,7 +135,7 @@ a strong {
 #buttonSupport {
  background:transparent url("images/buttonSupport.png") no-repeat 0 0;
 
-   top: 0px;
+   top: 63px;
    left: 280px;
 }
 
@@ -145,7 +145,7 @@ a strong {
 
 #buttonInvolved {
    background:transparent url("images/buttonInvolved.png") no-repeat 0 0;
-   top: 87px;
+   top: 153px;
    left: 280px;
 }
 
