@@ -139,9 +139,9 @@ a strong {
    left: 280px;
 }
 
-#buttonSupport:hover {
+/* #buttonSupport:hover {
    background:transparent url("images/buttonSupport_sel.png") no-repeat 0 0;
-}
+}*/
 
 #buttonInvolved {
    background:transparent url("images/buttonInvolved.png") no-repeat 0 0;
@@ -149,9 +149,9 @@ a strong {
    left: 280px;
 }
 
-#buttonInvolved:hover {
+/* #buttonInvolved:hover {
    background:transparent url("images/buttonInvolved_sel.png") no-repeat 0 0;
-}
+} */
 
 #bigbuttons a * {
 	visibility: hidden;
