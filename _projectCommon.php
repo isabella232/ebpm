@@ -26,10 +26,10 @@
 	
 	# Break the navigation into sections
 	$Nav->addNavSeparator("eBPM Project", 	"/ebpm");
-	$Nav->addCustomNav("Download", "/ebpm/download.php", "_self", 3);
+	$Nav->addCustomNav("Download", "/ebpm/download_ebpm.php", "_self", 3);
 	$Nav->addCustomNav("Documentation", "http://www.spagoworld.org/xwiki/bin/view/Spagic/TakeATour?language=en", "_blank", 3);
-	$Nav->addCustomNav("Support", "/ebpm/support2.php", "_blank", 3);
-	$Nav->addCustomNav("Getting Involved", "/ebpm/blog2.php", "_blank", 3);
+	$Nav->addCustomNav("Support", "/ebpm/support_ebpm.php", "_blank", 3);
+	$Nav->addCustomNav("Getting Involved", "/ebpm/blog_ebpm.php", "_blank", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
 	$pageKeywords	= "xtext, dsl, modeling, domain specific language, textual";
