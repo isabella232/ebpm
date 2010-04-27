@@ -16,15 +16,17 @@
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
+<p></p>
 
-<h3>BugTracker, Newsgroup/h3>
-<p>
-<b>Link to : </b><a href="link"><b>website</b></a></p>
+<h3>BugTracker</h3>
+<p> Page under construction </p>
+
+<h3> Newsgroup</h3>
+<p> Go to Newsgroup : <a href:"http://www.eclipse.org/newsgroups/">http://www.eclipse.org/newsgroups/</a> </p>
 
 <h3>Professional Support </h3>
 <p>
-<b>Link to website: </b><a href="http://www.spagoworld.org/xwiki/bin/view/Spagic/Support">http://www.spagoworld.org/xwiki/bin/view/Spagic/Support</a></p>
+<b>Link to website: </b><a href="http://www.spagoworld.org/xwiki/bin/view/Spagic/Support">http://www.spagoworld.org/xwiki/bin/view/Spagic/Support?language=en</a></p>
 
 
 </div>

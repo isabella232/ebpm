@@ -10,21 +10,25 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "eBPM - Download";
+	$pageTitle 		= "eBPM - Getting Involved";
 	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/default/style.css"/>');
 
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
+<p></p>
 
-<h3>Getting Involved</h3>
+<h3>Committers</h3>
 <p>
-<b>CVS,Workspace Setup, Wiki, Committers : </b><a href="eclipse">Link</a> </p>
+<b>Go to Committers : </b><a href="https://dev.eclipse.org/committers/">https://dev.eclipse.org/committers/</a> </p>
+
+<h3>SVN</h3>
+<p>
+<b>Go to the SVN Repository : </b><a href="http://dev.eclipse.org/svnroot/soa/org.eclipse.ebpm">http://dev.eclipse.org/svnroot/soa/org.eclipse.ebpm</a> </p>
 
 <h3>Blog</h3>
 <p>
-<b>Link to website : </b><a href="a href:"http://www.spagoworld.org/blog/">a href:"http://www.spagoworld.org/blog/</a> (10 MiB)</p>
+<b>Link to eBPM Blog : </b><a href="a href:"http://www.spagoworld.org/blog/">a href:"http://www.spagoworld.org/blog/"</a> (10 MiB)</p>
 
 
 </div>
