@@ -22,7 +22,8 @@
 <p> Page under construction </p>
 
 <h3> Newsgroup</h3>
-<p> Go to Newsgroup : <a href:"http://www.eclipse.org/newsgroups/">http://www.eclipse.org/newsgroups/</a> </p>
+<p> Page under construction </p>
+<!-- <p> Go to Newsgroup : <a href:"http://www.eclipse.org/newsgroups/">http://www.eclipse.org/newsgroups/</a> </p> -->
 
 <h3>Professional Support </h3>
 <p>
