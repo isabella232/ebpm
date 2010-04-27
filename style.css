@@ -30,7 +30,7 @@ a strong {
 
 #novaContent {
 	background: url("images/backgroundMain_eBPM.png") no-repeat white;
-	padding-top: 100px;
+	padding-top: 170px;
 }
 
 #introText p.left {
@@ -113,7 +113,7 @@ a strong {
 
 #buttonDownload {
    background:transparent url("images/buttonDownload.png") no-repeat 0 0;
-   top: 63px;
+   top: 0px;
    left: 0px;
 }
 
@@ -135,7 +135,7 @@ a strong {
 #buttonSupport {
  background:transparent url("images/buttonSupport.png") no-repeat 0 0;
    left: 280px;
-   top: 63px;
+   top: 0px;
 }
 
 /* #buttonSupport:hover {
