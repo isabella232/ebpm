@@ -25,15 +25,15 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("MyProject", 	"/default");
-	$Nav->addCustomNav("Download", "/project/download.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "/project/documentation.php", "_blank", 3);
-	$Nav->addCustomNav("Support", "/project/support.php", "_blank", 3);
-	$Nav->addCustomNav("Getting Involved", "/project/developers", "_blank", 3);
+	$Nav->addNavSeparator("eBPM Project", 	"/ebpm");
+	$Nav->addCustomNav("Download", "/ebpm/download.php", "_self", 3);
+	$Nav->addCustomNav("Documentation", "http://www.spagoworld.org/xwiki/bin/view/Spagic/TakeATour?language=en", "_blank", 3);
+	$Nav->addCustomNav("Support", "/ebpm/support2.php", "_blank", 3);
+	$Nav->addCustomNav("Getting Involved", "/ebpm/blog2.php", "_blank", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
 	$pageKeywords	= "xtext, dsl, modeling, domain specific language, textual";
-	$pageAuthor		= "Your name";
+	$pageAuthor		= "Spagic Team";
 	# $pageTitle 		= "Xtext";
 
 
