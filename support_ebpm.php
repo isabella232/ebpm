@@ -18,17 +18,25 @@
 <h2>$pageTitle</h2>
 <p></p>
 
-<h3>BugTracker</h3>
-<p> Page under construction </p>
 
-<h3> Newsgroup</h3>
-<p> Page under construction </p>
-<!-- <p> Go to Newsgroup : <a href:"http://www.eclipse.org/newsgroups/">http://www.eclipse.org/newsgroups/</a> </p> -->
-
-<h3>Professional Support </h3>
+<h3>Spagic Professional Support </h3>
 <p>
-<b>Link to website: </b><a href="http://www.spagoworld.org/xwiki/bin/view/Spagic/Support">http://www.spagoworld.org/xwiki/bin/view/Spagic/Support?language=en</a></p>
+Link to <b><a href="http://www.spagoworld.org/xwiki/bin/view/Spagic/Support">Spagic support </a></b></p>
 
+
+<h3>Spagic Consulting Services </h3>
+<p>
+Link to <b><a href="http://www.spagoworld.org/xwiki/bin/view/Spagic/Support/Consulting">Spagic Consulting </a></b></p>
+
+
+<h3>Spagic Development </h3>
+<p>
+Link to <b><a href="http://www.spagoworld.org/xwiki/bin/view/Spagic/Support/Development">Spagic Development </a></b></p>
+
+
+<h3>Spagic Training </h3>
+<p>
+Link to <b><a href="http://www.spagoworld.org/xwiki/bin/view/Spagic/Support/Training">Spagic Training </a></b></p>
 
 </div>
 EOHTML;

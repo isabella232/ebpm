@@ -19,8 +19,15 @@
 <p></p>
 
 <h3>Spagic Demos</h3>
-<p><b>Go to Spagic Demo Page :</b><a href="http://www.spagoworld.org/xwiki/bin/view/Spagic/TakeATour?language=en"> </a>
+<p>Go to <b><a href="http://www.spagoworld.org/xwiki/bin/view/Spagic/TakeATour?language=en">Spagic Demo Page </a></b> 
 </p>
+
+<h3>BugTracker</h3>
+<p> Page under construction </p>
+
+<h3> Newsgroup</h3>
+<p> Page under construction </p>
+<!-- <p> Go to Newsgroup : <a href:"http://www.eclipse.org/newsgroups/">http://www.eclipse.org/newsgroups/</a> </p> -->
 
 
 
