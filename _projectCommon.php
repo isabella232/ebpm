@@ -27,7 +27,7 @@
 	# Break the navigation into sections
 	$Nav->addNavSeparator("eBPM Project", 	"/ebpm");
 	$Nav->addCustomNav("Download", "/ebpm/download_ebpm.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "http://www.spagoworld.org/xwiki/bin/view/Spagic/TakeATour?language=en", "_self", 3);
+	$Nav->addCustomNav("Documentation", "/ebpm/documentation_ebpm.php", "_self", 3);
 	$Nav->addCustomNav("Support", "/ebpm/support_ebpm.php", "_self", 3);
 	$Nav->addCustomNav("Getting Involved", "/ebpm/blog_ebpm.php", "_self", 3);
 
