@@ -16,7 +16,7 @@
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p></p>
+<p>Link to<a href="http://www.spagic.org">Spagic website </a></b></p>
 
 
 <h3>Spagic Professional Support </h3>
