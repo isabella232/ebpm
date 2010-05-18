@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
+<!-- 
+<?xml-stylesheet type="text/xsl" href="project-plan-render.xsl"?>
+ -->
+<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml"
+      name="eBPM">
+   <release projectid="soa.ebpm" version="RC"/>
+   <introduction>
+     <html:div>The eBPM (eclipse Business Process Management For OSGi) project aims to realize a complete BPM solution for OSGi.
+     </html:div>
+   </introduction>
+   <release_deliverables>
+     <html:div>The eBPM project is composed by 3 types of component's: Commons, Runtime, Tools
+     		 The Runtime is the components that contains the eBPM core framework, and the standard eBPM services and connectors.
+     		 The Tools are the Eclipse Plugins to develop/configure services, connectors and processes.
+     		 The Commons component contains bundles/java project shared betweeb Runtime and Tools components.
+     		 The eBPM project delivers server software running on Equinox OSGi framework</html:div>
+   </release_deliverables>
+   <release_milestones>
+      <preamble>
+         <html:div>Some xhtml content here.  Make sure to use the prefix before the elements</html:div>
+      </preamble>
+      <milestone date="7/15/2010" milestone="RC"><html:p>Release Candidate</html:p></milestone>
+      <milestone date="8/15/2010" milestone="0.7"><html:p>0.7 Version</html:p></milestone>
+      <postamble/>
+   </release_milestones>
+   <target_environments>
+     <html:div>eBPM runs on the Equinox OSGi Runtime and requires Java 6.0.</html:div>
+     <internationalization>
+          <html:div>None of the eBPM deliverables are at the moment internationalized</html:div>
+     </internationalization>
+   </target_environments>
+ </plan>
+
