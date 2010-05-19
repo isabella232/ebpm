@@ -18,6 +18,13 @@
 <h2>$pageTitle</h2>
 <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
+
+<h3></div>
+
+  <img align="center" src="/images/egg-incubation.png" 
+        border="0" alt="Incubation" /></a></div>
+</div></h3>
+
 <h3>eBPM - Release Candidate</h3>
 <p>The first release will be available on July 2010</p>
 
@@ -26,11 +33,7 @@
 
 
 </div>
-</div>
 
-  <img align="center" src="/images/egg-incubation.png" 
-        border="0" alt="Incubation" /></a></div>
-</div>
 EOHTML;
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
