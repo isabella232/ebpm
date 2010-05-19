@@ -26,6 +26,11 @@
 
 
 </div>
+</div>
+
+  <img align="center" src="/images/egg-incubation.png" 
+        border="0" alt="Incubation" /></a></div>
+</div>
 EOHTML;
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
