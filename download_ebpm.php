@@ -48,6 +48,12 @@ Downloads are available at this URL:
 <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-src.zip">eBPM sources 0.7PREVIEW </a></p>
 <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM_Getting_Started.pdf">eBPM documentation 0.7PREVIEW </a></p>
 </p>
+<h4>Spagic tools working with eBPM</h4>
+<p>
+<p><a href="http://forge.ow2.org/project/download.php?group_id=298&file_id=15467"> Spagic3 Console </a>
+<p><a href="http://forge.ow2.org/project/download.php?group_id=298&file_id=15473"> Spagic3 Studio for Windows </a>
+<p><a href="http://forge.ow2.org/project/download.php?group_id=298&file_id=15474"> Spagic3 Studio for Linux </a>
+</p>
 <h3>eBPM - RoadMap</h3>
 <p>
 eBPMRoadmap for 2010 includes:
