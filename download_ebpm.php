@@ -49,7 +49,16 @@ Download eBPM0.7-PREVIEW at this URL:
 <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM_Getting_Started.pdf">eBPM documentation 0.7PREVIEW </a></p>
 </p>
 <h3>eBPM - RoadMap</h3>
-<p>Page under Construction</p>
+<p>
+eBPMRoadmap for 2010 includes:
+<ul>
+
+     <li> Completing the porting of all connectors and services of version 2 towards the OSGi standard</li>
+     <li> Extension of the BPM support to users' activities </li>
+     <li> Adoption of a distributed implementation (based on JMS) of the OSGi Event Admin, enabling the Service Manager to offer Enterprise Service Bus and distributed elaboration features, in addition to highly reliable, multinode configurations.</li>
+     <li>Implementation of management tools on the OSGi runtime.</li>
+</ul>
+</p>
 
 <h3></div>
 
