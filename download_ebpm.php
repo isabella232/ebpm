@@ -16,14 +16,18 @@
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
+<!-- disclaimer -->
+<!--<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p> -->
 
 
 
 
-<h3>eBPM - Release Candidate</h3>
-<p>The first release will be available on July 2010</p>
-
+<h3>eBPM - Preview</h3>
+<p>eBPM Runtime - Preview</p>
+<p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-service-manager-linux0.7PREVIEW.zip">eBPM Service Manager 0.7PREVIEW for Linux</a></p>
+<p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-service-manager-win0.7PREVIEW.zip">eBPM Service Manager 0.7PREVIEW for Windows</a></p>
+<p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-src.zip">eBPM sources 0.7PREVIEW </a></p>
+<p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM_Getting_Started.pdf">eBPM documentation 0.7PREVIEW </a></p>
 <h3>eBPM - RoadMap</h3>
 <p>Page under Construction</p>
 
