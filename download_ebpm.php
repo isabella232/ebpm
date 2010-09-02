@@ -54,8 +54,7 @@ eBPMRoadmap for 2010 includes:
 <ul>
 
      <li> Completing the porting of all connectors and services of version 2 towards the OSGi standard</li>
-     <li> Extension of the BPM support to users' activities </li>
-     <li> Adoption of a distributed implementation (based on JMS) of the OSGi Event Admin, enabling the Service Manager to offer Enterprise Service Bus and distributed elaboration features, in addition to highly reliable, multinode configurations.</li>
+     <li> Enrichment of the BPM support to users' activities </li>
      <li>Implementation of management tools on the OSGi runtime.</li>
 </ul>
 </p>
