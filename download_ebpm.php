@@ -18,32 +18,36 @@
 <h2>$pageTitle</h2>
 <!-- disclaimer -->
 <!--<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p> -->
-
+<p></p>
 <h3>eBPM - Preview</h3>
+<p></p>
+<p>eBPM0.7-PREVIEW is available now. </p>
 
-eBPM0.7-PREVIEW is available now. 
-
-eBPM is the result of the contribution to Eclipse of part of the core of an open source project
+<p>eBPM is the result of the contribution to Eclipse of part of the core of an open source project
 called <a href="http://spagoworld.com/xwiki/bin/view/Spagic/">Spagic</a>
 The contribution work is still in progress: this means that using eBPM without any auxiliary tools
-is quite complex now. For this reason, in this tour we’ll use some complementary tools provided by
+is quite complex now. For this reason, in this tour we'll use some complementary tools provided by
 the original project Spagic along with the eBPM runtime, provided in its basic version with some additional
-Spagic bundles.
-This is a temporary situation: once the submission process is completed, eBPM will provide both
+Spagic bundles.</p>
+<p>This is a temporary situation: once the submission process is completed, eBPM will provide both
 runtime and designer tools.
-Please notice that this preview IS NOT AN OFFICIAL ECLIPSE RELEASE.
+Please notice that this preview <b>IS NOT AN OFFICIAL ECLIPSE RELEASE</b>.
 The official Eclipse release will be available once the Eclipse submission process is completed.
-
+</p>
+<p>
 Spagic has been refactored for the eBPM contribution: most of the core bundles have been renamed,
 some code has been modified so as to allow the use of the libraries that are compatible with the EPL license. The
 license of all bundles has been changed as well.	
-	
+</p>	
+<p>
 Download eBPM0.7-PREVIEW at this URL:
+<p></p>
 <!--<p>eBPM Runtime - Preview</p>-->
 <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-service-manager-linux0.7PREVIEW.zip">eBPM Service Manager 0.7PREVIEW for Linux</a></p>
 <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-service-manager-win0.7PREVIEW.zip">eBPM Service Manager 0.7PREVIEW for Windows</a></p>
 <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-src.zip">eBPM sources 0.7PREVIEW </a></p>
 <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM_Getting_Started.pdf">eBPM documentation 0.7PREVIEW </a></p>
+</p>
 <h3>eBPM - RoadMap</h3>
 <p>Page under Construction</p>
 
