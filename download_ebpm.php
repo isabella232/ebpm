@@ -15,7 +15,7 @@
 
 	$html  = <<<EOHTML
 <div id="midcolumn">
-<h2>$pageTitle</h2>
+<!--<h2>$pageTitle</h2>-->
 <!-- disclaimer -->
 <!--<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p> -->
 <p></p>
@@ -40,7 +40,7 @@ some code has been modified so as to allow the use of the libraries that are com
 license of all bundles has been changed as well.	
 </p>	
 <p>
-Download eBPM0.7-PREVIEW at this URL:
+Downloads are available at this URL:
 <p></p>
 <!--<p>eBPM Runtime - Preview</p>-->
 <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-service-manager-linux0.7PREVIEW.zip">eBPM Service Manager 0.7PREVIEW for Linux</a></p>
