@@ -23,8 +23,8 @@
 <p></p>
 <p>eBPM0.7-PREVIEW is available now. </p>
 
-<p>eBPM is the result of the contribution to Eclipse of part of the core of an open source project
-called <a href="http://spagoworld.com/xwiki/bin/view/Spagic/">Spagic</a>
+<p>eBPM is the result of the contribution to Eclipse of part of the core of the open source project <a href="http://spagoworld.com/xwiki/bin/view/Spagic/">Spagic</a>, the free/open source platform
+for the governance of middleware services and the development of SOA applications.
 The contribution work is still in progress: this means that using eBPM without any auxiliary tools
 is quite complex now. For this reason, in this tour we'll use some complementary tools provided by
 the original project Spagic along with the eBPM runtime, provided in its basic version with some additional
