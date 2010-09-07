@@ -41,6 +41,7 @@ license of all bundles has been changed as well.
 </p>	
 <p>
 Downloads are available at this URL:
+<sub>Security warning may appear when clicking the Download links. This is caused by the fact that these links are located on an FTP server which requires an authorization. In order to proceed with downloading the files, you have to click on the OK button.</sub>
 <p></p>
 <!--<p>eBPM Runtime - Preview</p>-->
 <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-service-manager-linux0.7PREVIEW.zip">eBPM Service Manager 0.7PREVIEW for Linux</a></p>
@@ -50,7 +51,7 @@ Downloads are available at this URL:
 </p>
 <h4>Spagic tools working with eBPM</h4>
 <p>
-<sub>Security warning may appear when clicking the Download links. This is caused by the fact that these links are located on an FTP server which requires an authorization. In order to proceed with downloading the files, you have to click on the OK button.</sub>
+
 <p><a href="http://forge.ow2.org/project/download.php?group_id=298&file_id=15467"> Spagic3 Console </a>
 <p><a href="http://forge.ow2.org/project/download.php?group_id=298&file_id=15473"> Spagic3 Studio for Windows </a>
 <p><a href="http://forge.ow2.org/project/download.php?group_id=298&file_id=15474"> Spagic3 Studio for Linux </a>
