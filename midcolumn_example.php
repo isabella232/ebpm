@@ -20,6 +20,7 @@
 	ob_start();
 	?>
 	<div id="midcolumn">
+	
 		<h1>&lt;H1&gt; tag</h1>
 		
 		<p>
