@@ -23,7 +23,19 @@
 		
 		<h3>&lt;h3&gt; tag</h3>
 		<div class="homeitem">
-	
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7607153-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
 			<ul>
 				<li><a href:"eclipse" >BugTracker, Newsgroup</a></li>
 				<li><a href="http://www.spagoworld.org/xwiki/bin/view/Spagic/Support">Professional Support</a></li>

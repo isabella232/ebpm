@@ -1,0 +1,12 @@
+INDEX VERSION 1.126+C:\Documents and Settings\Miele\Documenti\lavoro\eBPM\EBPMWeb\ebpm_web\.metadata\.plugins\org.eclipse.jdt.core
+3447165861.index
+3496116499.index
+348476147.index
+2757534728.index
+472685797.index
+3369523835.index
+695041137.index
+17216463.index
+874097072.index
+2078199492.index
+3224891749.index

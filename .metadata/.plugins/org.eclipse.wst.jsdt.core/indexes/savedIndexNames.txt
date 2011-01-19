@@ -1,0 +1,4 @@
+INDEX VERSION 1.121+C:\Documents and Settings\Miele\Documenti\lavoro\eBPM\EBPMWeb\ebpm_web\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2633679680.index
+2964451406.index
+1122167742.index
