@@ -23,6 +23,7 @@
 		
 		<h3>&lt;h3&gt; tag</h3>
 		<div class="homeitem">
+	
 			<ul>
 				<li><a href:"eclipse" >BugTracker, Newsgroup</a></li>
 				<li><a href="http://www.spagoworld.org/xwiki/bin/view/Spagic/Support">Professional Support</a></li>
