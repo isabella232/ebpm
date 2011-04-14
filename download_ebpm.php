@@ -58,9 +58,9 @@ Downloads are available at this URL:
 <br><i>Security warning may appear when clicking the Download links. This is caused by the fact that these links are located on an FTP server which requires an authorization. In order to proceed with downloading the files, you have to click on the OK button.</i>
 <p></p>
 <!--<p>eBPM Runtime - Preview</p>-->
-<p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-service-manager-linux0.7PREVIEW.zip">eBPM Service Manager 0.7PREVIEW for Linux</a></p>
-<p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-service-manager-win0.7PREVIEW.zip">eBPM Service Manager 0.7PREVIEW for Windows</a></p>
-<p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-src.zip">eBPM sources 0.7PREVIEW </a></p>
+<p><a href="http://www.eclipse.org/downloads/download.php?file=/ebpm/eBPM_0.7_Runtime.zip">eBPM Service Manager 0.7</a></p>
+<!-- <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-service-manager-win0.7PREVIEW.zip">eBPM Service Manager 0.7PREVIEW for Windows</a></p> 
+<p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-src.zip">eBPM sources 0.7PREVIEW </a></p>-->
 <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM_Getting_Started.pdf">eBPM documentation 0.7PREVIEW </a></p>
 </p>
 <h4>Spagic tools working with eBPM</h4>
