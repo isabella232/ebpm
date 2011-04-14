@@ -33,9 +33,9 @@
 <!-- disclaimer -->
 <!--<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p> -->
 <p></p>
-<h3>eBPM - Preview</h3>
+<h3>eBPM</h3>
 <p></p>
-<p>eBPM0.7-PREVIEW is available now. </p>
+<p>eBPM0.7 is available now. </p>
 
 <p>eBPM is the result of the contribution to Eclipse of part of the core of the open source project <a href="http://spagoworld.com/xwiki/bin/view/Spagic/">Spagic</a>, the free/open source platform
 for the governance of middleware services and the development of SOA applications.
