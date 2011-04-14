@@ -33,7 +33,7 @@
 <!-- disclaimer -->
 <!--<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p> -->
 <p></p>
-<h3>eBPM</h3>
+<h3>eBPM - Downloads</h3>
 <p></p>
 <p>eBPM0.7 is available now. </p>
 
@@ -53,7 +53,6 @@ license of all bundles has been changed as well.
 </p>	
 <p>
 Downloads are available at this URL:
-<br>
 <p></p>
 <!--<p>eBPM Runtime</p>-->
 <p><a href="http://www.eclipse.org/downloads/download.php?file=/ebpm/eBPM_0.7_Runtime.zip">eBPM Service Manager 0.7</a></p>
