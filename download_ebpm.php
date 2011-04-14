@@ -43,9 +43,6 @@ The contribution work is still in progress: this means that using eBPM without a
 is quite complex now. For this reason, in this tour we'll use some complementary tools provided by
 the original project Spagic along with the eBPM runtime, provided in its basic version with some additional
 Spagic bundles.</p>
-<p>This is a temporary situation: once the submission process is completed, eBPM will provide both
-runtime and designer tools.
-</p>
 <p>
 Spagic has been refactored for the eBPM contribution: most of the core bundles have been renamed,
 some code has been modified so as to allow the use of the libraries that are compatible with the EPL license. The
