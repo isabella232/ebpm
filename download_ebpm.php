@@ -45,8 +45,6 @@ the original project Spagic along with the eBPM runtime, provided in its basic v
 Spagic bundles.</p>
 <p>This is a temporary situation: once the submission process is completed, eBPM will provide both
 runtime and designer tools.
-Please notice that this preview <b>IS NOT AN OFFICIAL ECLIPSE RELEASE</b>.
-The official Eclipse release will be available once the Eclipse submission process is completed.
 </p>
 <p>
 Spagic has been refactored for the eBPM contribution: most of the core bundles have been renamed,
@@ -55,7 +53,7 @@ license of all bundles has been changed as well.
 </p>	
 <p>
 Downloads are available at this URL:
-<br><i>Security warning may appear when clicking the Download links. This is caused by the fact that these links are located on an FTP server which requires an authorization. In order to proceed with downloading the files, you have to click on the OK button.</i>
+<br>
 <p></p>
 <!--<p>eBPM Runtime - Preview</p>-->
 <p><a href="http://www.eclipse.org/downloads/download.php?file=/ebpm/eBPM_0.7_Runtime.zip">eBPM Service Manager 0.7</a></p>
