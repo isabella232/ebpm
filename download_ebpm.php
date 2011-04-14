@@ -52,7 +52,7 @@ some code has been modified so as to allow the use of the libraries that are com
 license of all bundles has been changed as well.	
 </p>	
 <p>
-Downloads are available at this URL:
+<h4>Downloads are available at this URL:</h4>
 <p></p>
 <!--<p>eBPM Runtime</p>-->
 <p><a href="http://www.eclipse.org/downloads/download.php?file=/ebpm/eBPM_0.7_Runtime.zip">eBPM Service Manager 0.7</a></p>
