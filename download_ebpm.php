@@ -55,7 +55,7 @@ license of all bundles has been changed as well.
 <p><a href="http://www.eclipse.org/downloads/download.php?file=/ebpm/eBPM_0.7_Runtime.zip">eBPM Service Manager 0.7</a></p>
 <!-- <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-service-manager-win0.7PREVIEW.zip">eBPM Service Manager 0.7PREVIEW for Windows</a></p> 
 <p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM-src.zip">eBPM sources 0.7PREVIEW </a></p>-->
-<p><a href="ftp://ebpm:bpm!2010@193.178.245.9/eBPM_Getting_Started.pdf">eBPM documentation 0.7</a></p>
+<p><a href="http://wiki.eclipse.org/Ebpm/Getting_Started">eBPM 0.7  Getting Started</a></p>
 </p>
 <h4>Spagic tools working with eBPM</h4>
 <p>

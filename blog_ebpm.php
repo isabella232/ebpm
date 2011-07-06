@@ -39,13 +39,17 @@
 <!-- <a href="http://dash.eclipse.org/dash/commits/web-app/active-committers.cgi?project=soa.ebpm"></a> -->
  </p>
 
+<h3>Wiki</h3>
+<p>
+<b>Go to the  </b><a href="http://wiki.eclipse.org/Ebpm">eBPM Wiki page</a> </p>
+
 <h3>SVN</h3>
 <p>
 <b>Go to the  </b><a href="http://dev.eclipse.org/svnroot/soa/org.eclipse.ebpm">SVN Repository</a> </p>
 
 <h3>Blog</h3>
 <p>
-<b>Link to</b><a href="http://www.spagoworld.org/blog/">eBPM Blog</a></p>
+<b>Link to </b><a href="http://www.spagoworld.org/blog/">eBPM Blog</a></p>
 
 
 </div>
